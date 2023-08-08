@@ -1,2 +1,1 @@
-# EmpowerNUS
-The start to something cool
+# Hello, Welcome to my Profile!
